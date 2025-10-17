@@ -27,12 +27,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakvisal&" alt="prakvisal" /></p>
 
-
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/nethMesabothh/nethMesabothh/output/snake.svg" alt="Snake animation" />
-
 
 ###
