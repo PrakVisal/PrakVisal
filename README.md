@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrakVisal&label=Profile views&color=0e75b6&style=flat" alt="PrakVisal" /> </p>
 
+![](https://github.com/PrakVisal/https://media.tenor.com/YpVqLrEIa7IAAAAm/huh-cat.webp)
+
 - 👨‍💻 All of my projects are available at **[https://prakvisal.vercel.app/](https://prakvisal.vercel.app/)**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1XNBi45GTkse54rPGsEV7CLNBNgiZd__y/view?usp=sharing](https://drive.google.com/file/d/1XNBi45GTkse54rPGsEV7CLNBNgiZd__y/view?usp=sharing)**
