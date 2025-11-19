@@ -2,9 +2,10 @@
 
 ### An experienced Java developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrakVisal&label=Profile views&color=0e75b6&style=flat" alt="PrakVisal" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrakVisal&label=Profile views&color=0e75b6&style=flat" alt="PrakVisal" /> </p> -->
 
-![](https://github.com/PrakVisal/https://media.tenor.com/YpVqLrEIa7IAAAAm/huh-cat.webp)
+<img src="https://media.tenor.com/YpVqLrEIa7IAAAAm/huh-cat.webp" alt="" />
+
 
 - 👨‍💻 All of my projects are available at **[https://prakvisal.vercel.app/](https://prakvisal.vercel.app/)**
 
