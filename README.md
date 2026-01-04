@@ -7,7 +7,7 @@
 <img src="https://media.tenor.com/YpVqLrEIa7IAAAAm/huh-cat.webp" alt="" />
 
 
-- 👨‍💻 All of my projects are available at **[https://prakvisal.vercel.app/](https://prakvisal.tech/)**
+- 👨‍💻 All of my projects are available at **[https://prakvisal.tech/](https://prakvisal.tech/)**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1XNBi45GTkse54rPGsEV7CLNBNgiZd__y/view?usp=sharing](https://drive.google.com/file/d/1XNBi45GTkse54rPGsEV7CLNBNgiZd__y/view?usp=sharing)**
 
